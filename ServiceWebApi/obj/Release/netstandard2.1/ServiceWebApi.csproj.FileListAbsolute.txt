@@ -1,0 +1,13 @@
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\bin\Release\netstandard2.1\ServiceWebApi.deps.json
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\bin\Release\netstandard2.1\ServiceWebApi.dll
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\bin\Release\netstandard2.1\ServiceWebApi.pdb
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\bin\Release\netstandard2.1\Model.dll
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\bin\Release\netstandard2.1\Model.pdb
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.csproj.AssemblyReference.cache
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.AssemblyInfoInputs.cache
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.AssemblyInfo.cs
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.csproj.CoreCompileInputs.cache
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.csproj.CopyComplete
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.dll
+C:\ProyectosGitHubUTN\EasyParkingAPI\ServiceWebApi\obj\Release\netstandard2.1\ServiceWebApi.pdb

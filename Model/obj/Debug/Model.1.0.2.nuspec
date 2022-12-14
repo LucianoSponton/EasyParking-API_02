@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Model</id>
+    <version>1.0.2</version>
+    <authors>Model</authors>
+    <description>Package Description</description>
+    <tags>v1</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\ProyectosGitHubUTN\EasyParkingAPI\Model\bin\Debug\netstandard2.1\Model.dll" target="lib\netstandard2.1\Model.dll" />
+  </files>
+</package>
