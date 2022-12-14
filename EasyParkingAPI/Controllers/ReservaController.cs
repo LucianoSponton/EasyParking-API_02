@@ -183,7 +183,7 @@ namespace EasyParkingAPI.Controllers
                 //   item.TipoDeVehiculo = vehiculo.TipoDeVehiculo;
                 //}
 
-                var xxx = await dataContext.Vehiculos.AsNoTracking().ToListAsync();
+                var xxx = await dataContext.Vehiculos.AsNoTracking().ToListAsync(); //
 
                 List<ReservaDTO> qwery3 =
                           (from q in qwery2
